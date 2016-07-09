@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-#  Wroten by CY QIN
+#  Written by Chaoyi QIN
 
 import socket
 import thread
